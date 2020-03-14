@@ -1,3 +1,5 @@
+// iki sayının ebobunu bulmak için yazılan bir fonksiyon
+
 def ortakebob(a, b):
     liste = []
     if (a<b):

@@ -1,3 +1,5 @@
+// iki sayının ekokunu bulmak için yazılan bir fonksiyon
+
 def ortakekok(a, b):
     z = a * b + 1
     liste = []
