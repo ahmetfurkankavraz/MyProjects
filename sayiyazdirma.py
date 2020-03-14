@@ -1,3 +1,6 @@
+# 999.999.999'a kadar olan bütün sayıları yazdırmak için tasarlandı.
+# Ancak 1000 ya da 16.000.000 gibi ifadeleri yazdırırken sıkıntı olabiliyor
+
 birler = ['' , 'bir', 'iki', 'üç', 'dört', 'beş', 'altı', 'yedi','sekiz', 'dokuz']
 onlar = [ '','on','yirmi', 'otuz', 'kırk', 'elli', 'altmış', 'yetmiş', 'seksen', 'doksan']
 yüzler = []
